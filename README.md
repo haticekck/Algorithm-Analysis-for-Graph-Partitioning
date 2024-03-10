@@ -8,7 +8,7 @@ This project explores various algorithms for solving the Graph Partitioning Prob
 - [Features](#features)
 - [Algorithms](#algorithms)
 - [Usage](#usage)
-- [Known Limitations](#known_limitations)
+- [Known Limitations](#known-limitations)
 
 ## Introduction
 
